@@ -8,7 +8,7 @@ on:
 
 env:
   IMAGE_TAG: ${{ github.run_number }}
-  DOCKER_REPOSITORY: thomoute
+  DOCKER_REPOSITORY: thomoute2
 
 jobs:
 
